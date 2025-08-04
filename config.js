@@ -33,7 +33,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "Your-Own-Bot",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Your-Own-Bot",
+STICKER_NAME: process.env.STICKER_NAME || "*𝐍ᴀɪᴍᴀ 𝐓ᴇᴄʜ𝐗   :)*",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -41,7 +41,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923237045910",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923190671211",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "*𝐍ᴀɪᴍᴀ 𝐓ᴇᴄʜ𝐗   :)*",
 // add bot owner name
@@ -73,7 +73,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923237045919",
+DEV: process.env.DEV || "923190671211",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
