@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By ArslanMD Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Your-Own-Bot",
+    "start": "pm2 start index.js --deep-monitoring --attach --name NaimaTechX",
     "stop": "pm2 stop Your-Own-Bot",
     "restart": "pm2 restart Your-Own-Bot"
   },
