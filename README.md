@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/panda3diitx/aesthetic?style=social"/>
 </p>
 
-<p align="start">
+<p align="right">
   سَتَا دَلَاسَہ مِی٘ زَڑ٘گِے زَرِی زَرِی :____
 </p>
 
