@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Naima-TechX</h1>
+<h1 align="start">🤖 Naima-TechX</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square"/>
