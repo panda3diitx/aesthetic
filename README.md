@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/github/stars/panda3diitx/aesthetic?style=social"/>
 </p>
 
-<p align="end">
-  An advanced, auto-replying, AI-powered WhatsApp Multi-Device Bot built with ❤️ using <strong>Node.js</strong> and <strong>Baileys</strong>.
+<p align="start">
+  AI-powered WhatsApp Multi-Device Bot Develop by Naima TechX
 </p>
 </p>
 
