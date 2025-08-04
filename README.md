@@ -3,7 +3,7 @@
 <p align="start">
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Powered%20By-Baileys-blue?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/yourusername/whatsapp-md-bot?style=social"/>
+  <img src="https://img.shields.io/github/stars/panda3diitx/aesthetic?style=social"/>
 </p>
 
 <p align="center">
