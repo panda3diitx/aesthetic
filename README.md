@@ -7,7 +7,7 @@
 </p>
 
 <p align="start">
-  AI-powered WhatsApp Multi-Device Bot 🦩 »
+  AI-powered WhatsApp Multi-Device Bot 🦋·•°
 </p>
 </p>
 
