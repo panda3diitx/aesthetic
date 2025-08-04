@@ -1,0 +1,42 @@
+<h1 align="center">🤖 WhatsApp MD Bot</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Powered%20By-Baileys-blue?style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/yourusername/whatsapp-md-bot?style=social"/>
+</p>
+
+<p align="center">
+  An advanced, auto-replying, AI-powered WhatsApp Multi-Device Bot built with ❤️ using <strong>Node.js</strong> and <strong>Baileys</strong>.
+</p>
+
+---
+
+## 🌟 Features
+
+- ✅ Auto-reply with custom messages
+- 🎯 AI Chat (OpenAI/GPT)
+- 📍 Menu buttons with dynamic commands
+- 🧠 Smart status auto-view
+- 📂 Media sending (Images, Videos, Stickers)
+- 🔒 Session-based QR login
+- 🌐 Easy deployment (Heroku / Vercel / Railway)
+
+---
+
+## ⚙️ Tech Stack
+
+- 🟩 Node.js
+- 🤖 Baileys (MD WhatsApp library)
+- 🔐 Express / QR Auth
+- 🧠 OpenAI (optional for AI chat)
+
+---
+
+## 🚀 Setup & Installation
+
+```bash
+git clone https://github.com/yourusername/whatsapp-md-bot.git
+cd whatsapp-md-bot
+npm install
+node index.js
