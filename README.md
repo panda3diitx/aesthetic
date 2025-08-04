@@ -7,7 +7,7 @@
 </p>
 
 <p align="start">
-  AI-powered WhatsApp Multi-Device Bot Develop by Naima TechX
+  AI-powered WhatsApp Multi-Device Bot 🦩 »
 </p>
 </p>
 
