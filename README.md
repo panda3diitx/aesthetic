@@ -1,6 +1,6 @@
 <h1 align="start">𝐍͡ᴀɪᴍᴀ 𝐓ᴇᴄʜ͡𝐗 🐍💀/-</h1>
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Powered%20By-Baileys-blue?style=flat-square"/>
   <img src="https://img.shields.io/github/stars/yourusername/whatsapp-md-bot?style=social"/>
