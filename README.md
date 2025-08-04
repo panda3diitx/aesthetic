@@ -7,7 +7,8 @@
 </p>
 
 <p align="end">
-  **سَتَا دَلَاسَہ مِی٘ زَڑ٘گِے زَرِی زَرِی :____**
+  An advanced, auto-replying, AI-powered WhatsApp Multi-Device Bot built with ❤️ using <strong>Node.js</strong> and <strong>Baileys</strong>.
+</p>
 </p>
 
 ---
