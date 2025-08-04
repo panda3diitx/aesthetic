@@ -33,11 +33,3 @@
 - 🧠 OpenAI (optional for AI chat)
 
 ---
-
-## 🚀 Setup & Installation
-
-```bash
-git clone https://github.com/yourusername/whatsapp-md-bot.git
-cd whatsapp-md-bot
-npm install
-node index.js
